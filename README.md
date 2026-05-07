@@ -2,11 +2,6 @@
 
 A deep learning web application that detects pneumonia from chest X-ray images using EfficientNet-B3, achieving **94% test accuracy** with **97% pneumonia recall**.
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.0-ff4b4b)
-![Accuracy](https://img.shields.io/badge/Accuracy-94%25-green)
-
 ---
 
 ##  Results
