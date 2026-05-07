@@ -13,7 +13,7 @@ A deep learning web application that detects pneumonia from chest X-ray images u
 | NORMAL Recall | **91%** |
 | PNEUMONIA Precision | **94%** |
 | NORMAL Precision | **94%** |
-| Optimal Threshold | **0.975** |
+| Optimal Threshold | **0.98** |
 
 ---
 
