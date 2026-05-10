@@ -23,9 +23,7 @@ A deep learning web application that detects pneumonia from chest X-ray images u
 
 Upload a chest X-ray image and the model predicts whether it shows signs of pneumonia with a confidence score.
 
----
-
-## Live Demo:  [Click Here To Test Live](https://pneumonia-detection-irvttmdt8keypeamjbmznh.streamlit.app/)
+### Live Demo:  [Click Here To Test Live](https://pneumonia-detection-irvttmdt8keypeamjbmznh.streamlit.app/)
 
 ##  Model Architecture
 
