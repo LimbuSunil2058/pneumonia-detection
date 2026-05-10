@@ -25,6 +25,7 @@ Upload a chest X-ray image and the model predicts whether it shows signs of pneu
 
 ### Live Demo:  [Click Here To Test Live](https://pneumonia-detection-irvttmdt8keypeamjbmznh.streamlit.app/)
 
+
 ##  Model Architecture
 
 | Component | Detail |
